@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #202C36;
+}
+
+.header{
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+}
+.nav{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2B3844;
+    color: white;
+    margin: 0 auto;
+
+
+}
+
+.nav h1{
+    position: relative;
+    left: 81px;
+}
+
+.nav p{
+    position: relative;
+    right: 80px;
+}
+
+.input{
+    position: relative;
+    top: 48px;
+    left: 80px;
+    width: 440px;
+    height: 56px;
+    padding-left: 74px;
+    background-color: #2B3844;
+}
+
+.section img{
+    position: relative;
+    top: 54px;
+    left: -325px;
+
+}
+
+.box1{
+    width: 264px;
+    height: 250px;
+    background-image: url(Germaniya.png);
+    background-repeat: no-repeat;
+    background-color: #2B3844;
+}
+
+.main{
+    margin: 0 auto;
+    max-width: 1440px;
+    min-height: 948px;
+    background-color: #202C36;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 89px 60px;
+    gap: 20px;
+}
+
+.box2{
+    width: 264px;
+    height: 250px;
+    background-image: url(США.png);
+    background-repeat: no-repeat;
+    background-color: #2B3844;
+}
+
+.box3{
+    width: 264px;
+    height: 250px;
+    background-image: url(Brazil.png);
+    background-repeat: no-repeat;
+    background-color: #2B3844;
+}
+
+.box4{
+    width: 264px;
+    height: 250px;
+    background-image: url(Iceland.png);
+    background-repeat: no-repeat;
+    background-color: #2B3844;
+}
+
+.box5{
+    width: 264px;
+    height: 250px;
+    background-image: url(Avgoniston.png);
+    background-repeat: no-repeat;
+    background-color: #2B3844;
+}
+
+.box6{
+    width: 264px;
+    height: 250px;
+    background-image: url(aland\ island.png);
+    background-repeat: no-repeat;
+    background-color: #2B3844;
+}
+
+.box7{
+    width: 264px;
+    height: 250px;
+    background-image: url(alboniya.png);
+    background-repeat: no-repeat;
+    background-color: #2B3844;
+}
+
+.box8{
+    width: 264px;
+    height: 250px;
+    background-image: url(algeria.png);
+    background-repeat: no-repeat;
+    background-color: #2B3844;
+}
+
+
+.box1 p{
+    position: relative;
+    top: 192px;
+    left: 93px;
+    color: white;
+}
+
+.box2 p{
+    position: relative;
+    top: 192px;
+    left:60px;
+    color: white;
+}
+
+.box3 p{
+    position: relative;
+    top: 192px;
+    left: 110px;
+    color: white;
+}
+
+.box4 p{
+    position: relative;
+    top: 192px;
+    left: 93px;
+    color: white;
+}
+
+.box5 p{
+    position: relative;
+    top: 192px;
+    left: 93px;
+    color: white;
+}
+
+.box6 p{
+    position: relative;
+    top: 192px;
+    left: 93px;
+    color: white;
+}
+
+.box7 p{
+    position: relative;
+    top: 192px;
+    left: 93px;
+    color: white;
+}
+
+.box8 p{
+    position: relative;
+    top: 192px;
+    left: 93px;
+    color: white;
+}
